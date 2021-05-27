@@ -18,5 +18,5 @@ This is the actual potpvp source with qLib removed and I'm giving this for free.
 
 ## Contact
 
-discord: stfubruno#5598
-tele: stfubruno
+- discord: stfubruno#5598
+- tele: stfubruno
