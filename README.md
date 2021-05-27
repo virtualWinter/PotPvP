@@ -1,4 +1,4 @@
-## MineHQ PotPvP
+## PotPvP
 
 Depends: mSpigot/SourSpigot, ProtocolLib, WorldEdit/Fawe.
 
