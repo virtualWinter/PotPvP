@@ -13,8 +13,8 @@ This is the actual potpvp source with qLib removed and I'm giving this for free.
 
 ## Changes
 
-- Removed PvP Classes/TeamFights
-- Removed events
+- Removed PvPClasses/TeamFights
+- Removed Events
 
 ## Contact
 
