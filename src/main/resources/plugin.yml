@@ -1,0 +1,4 @@
+name: PotPvP
+version: ${git.commit.id.abbrev}
+author: Reyna
+main: net.frozenorb.potpvp.PotPvPSI
